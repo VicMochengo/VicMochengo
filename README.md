@@ -6,7 +6,7 @@
 
 - :computer: Data Scientist based in Nairobi, Kenya. Enjoys digging into data to build high value data products
 
-- 👀 Interested in applied predictive analytics in various forms more specifically machine learning, deep learning, geospatial analysis
+- 👀 Interested in applied predictive analytics more specifically machine learning, deep learning, geospatial analysis
 
 - 🌱 I occassionally jot down some thoughts [here](https://medium.com/@victormochengo)
 
